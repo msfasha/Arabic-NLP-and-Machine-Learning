@@ -12,4 +12,6 @@
 
 [Software tools](https://sites.google.com/a/aucegypt.edu/infoguistics/directory/Corpus-Linguistics/software-tools)
 
+Corpus Analysis
+  - [AntCont](http://www.laurenceanthony.net/software/antconc/)
 
