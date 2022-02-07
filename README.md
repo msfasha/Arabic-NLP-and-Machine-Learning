@@ -1,12 +1,15 @@
 # Arabic_NLP
 
-https://camel-tools.readthedocs.io/en/latest/
+[Camel Tools](https://camel-tools.readthedocs.io/en/latest/)
 
 
-https://camel.abudhabi.nyu.edu/madamira/
+[MadaMira](https://camel.abudhabi.nyu.edu/madamira/)
 
 
-https://github.com/Barqawiz/Shakkala
+[Shakala](https://github.com/Barqawiz/Shakkala)
 
-[Arabic](https://sites.google.com/a/aucegypt.edu/infoguistics/directory/Corpus-Linguistics/arabic-corpora)
+[Web-based (Searchable) corpora](https://sites.google.com/a/aucegypt.edu/infoguistics/directory/Corpus-Linguistics/arabic-corpora)
+
+[Software tools](https://sites.google.com/a/aucegypt.edu/infoguistics/directory/Corpus-Linguistics/software-tools)
+
 
