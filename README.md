@@ -14,4 +14,10 @@
 
 Corpus Analysis
   - [AntCont](http://www.laurenceanthony.net/software/antconc/)
+  - http://xaira.sourceforge.net/
+  - http://www.corpustool.com/index.html
+  - http://neon.niederlandistik.fu-berlin.de/static/textstat/TextSTAT-Doku-EN.html
+  - https://sourceforge.net/projects/corsis/
+  - https://lexically.net/wordsmith/
+  - https://sourceforge.net/projects/linguistic-analyzer/
 
