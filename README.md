@@ -1,11 +1,11 @@
 
-## References to Arabic NLP resources
+# References to Arabic NLP resources
 
-# Spell Checking
+## Spell Checking
 - [Peter Norvig Algorithm](spell_check/readme.md)
 
 
-# Language modeling
+## Language modeling
 
 Language modeling is the task of predicting the next word or character in a document.
 
