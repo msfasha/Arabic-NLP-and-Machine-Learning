@@ -5,7 +5,7 @@
 
 <p align="center">
   <!-- <img src="assets/template.jpg" width="350" title="hover text"> -->
-  <img src="assets/template.jpg" width="350" alt="accessibility text">
+  <img src="assets/template.jpg" width="350" alt="انا أنزلناه قرانا عربيا لعلكم تعقلون">
 </p>
 
 ## Toolkits
