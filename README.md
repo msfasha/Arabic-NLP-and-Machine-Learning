@@ -1,9 +1,14 @@
 
 # References to Arabic NLP resources
 
+
+## Toolkits
+- [Camel Tools](https://camel-tools.readthedocs.io/en/latest/)
+- [MadaMira](https://camel.abudhabi.nyu.edu/madamira/)
+- [FARASA](https://farasa.qcri.org/)
+
 ## Spell Check
 - [Peter Norvig Algorithm](spell_check/readme.md)
-
 
 
 ## Language modeling
@@ -25,8 +30,3 @@ Language modeling is the task of predicting the next word or character in a docu
   - https://sourceforge.net/projects/corsis/
   - https://lexically.net/wordsmith/
   - https://sourceforge.net/projects/linguistic-analyzer/
-
-## Toolkits
-- [Camel Tools](https://camel-tools.readthedocs.io/en/latest/)
-- [MadaMira](https://camel.abudhabi.nyu.edu/madamira/)
-- [FARASA](https://farasa.qcri.org/)
