@@ -8,7 +8,7 @@
 - [FARASA](https://farasa.qcri.org/)
 
 ## Spell Check
-- [Peter Norvig Algorithm](spell_check/readme.md)
+- [Peter Norvig Algorithm](norvig/)
 
 
 ## Language modeling
