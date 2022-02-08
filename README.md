@@ -1,6 +1,12 @@
 
 # References to Arabic NLP resources
 
+<!-- ![Screenshot](assets/template.jpg) -->
+
+<p align="center">
+  <!-- <img src="assets/template.jpg" width="350" title="hover text"> -->
+  <img src="assets/template.jpg" width="350" alt="accessibility text">
+</p>
 
 ## Toolkits
 - [Camel Tools](https://camel-tools.readthedocs.io/en/latest/)
