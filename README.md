@@ -28,6 +28,10 @@ Language modeling is the task of predicting the next word or character in a docu
 |hULMonA: The Universal Language Model in Arabic|[hULMonA](https://aclanthology.org/W19-4608/) | [Official](https://github.com/aub-mind/hULMonA) |
 
 
+## Datasets
+  - [MASADER](https://arbml.github.io/masader/)
+
+
 ## Corpus Analysis
   - [AntCont](http://www.laurenceanthony.net/software/antconc/)
   - http://xaira.sourceforge.net/
