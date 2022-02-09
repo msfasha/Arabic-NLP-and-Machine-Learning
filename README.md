@@ -29,7 +29,7 @@ Language modeling is the task of predicting the next word or character in a docu
 
 
 ## Datasets
-  - [MASADER](https://arbml.github.io/masader/)
+  - [MASADER, part of ARBML on GitHub](https://arbml.github.io/masader/)
 
 
 ## Corpus Analysis
