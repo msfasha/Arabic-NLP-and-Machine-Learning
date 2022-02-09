@@ -31,6 +31,11 @@ Language modeling is the task of predicting the next word or character in a docu
 ## Datasets
   - [MASADER, part of ARBML on GitHub](https://arbml.github.io/masader/)
 
+## Text Cleaning/normalization
+  - [tnkeeh, part of ARBML on GitHub](https://github.com/ARBML/tnkeeh)
+
+## ASR
+  - [klaam](https://github.com/ARBML/klaam)
 
 ## Corpus Analysis
   - [AntCont](http://www.laurenceanthony.net/software/antconc/)
