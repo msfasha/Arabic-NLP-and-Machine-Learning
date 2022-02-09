@@ -15,9 +15,7 @@
 - [Camel Tools](https://camel-tools.readthedocs.io/en/latest/)
 - [MadaMira](https://camel.abudhabi.nyu.edu/madamira/)
 - [FARASA](https://farasa.qcri.org/)
-
-
--[Arabycia](https://github.com/mohabmes/Arabycia)
+- [Arabycia](https://github.com/mohabmes/Arabycia)
 
 ## Arabic Spell Check
 - [Peter Norvig Algorithm](norvig/)
