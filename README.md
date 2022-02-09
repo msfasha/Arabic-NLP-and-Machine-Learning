@@ -45,6 +45,7 @@ Language modeling is the task of predicting the next word or character in a docu
 
 ## Arabic ASR
   - [klaam](https://github.com/ARBML/klaam)
+  - [Arabic Speech Recognition](https://github.com/Anwarvic/Arabic-Speech-Recognition)
 
 ## Arabic Questions Answering
   - [SOQAL](https://github.com/husseinmozannar/SOQAL)
