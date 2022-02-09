@@ -31,6 +31,8 @@ Language modeling is the task of predicting the next word or character in a docu
 |hULMonA: The Universal Language Model in Arabic|[hULMonA](https://aclanthology.org/W19-4608/) | [Official](https://github.com/aub-mind/hULMonA) |
 
   - [Arabic Bert](https://github.com/alisafaya/Arabic-BERT)
+  - [MarBERT](https://github.com/UBC-NLP/marbert)
+  - [Multi Dialict Arabic Bert](https://github.com/mawdoo3/Multi-dialect-Arabic-BERT)
 
 ## Arabic Datasets
   - [MASADER, part of ARBML on GitHub](https://arbml.github.io/masader/)
@@ -59,3 +61,4 @@ Language modeling is the task of predicting the next word or character in a docu
 
 ## Aditional Sites
   - [ARBML](https://github.com/ARBML)
+  - [Arabic-NLP](https://github.com/topics/arabic-nlp)
