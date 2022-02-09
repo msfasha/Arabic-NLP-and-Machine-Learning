@@ -1,5 +1,5 @@
 
-# References to Arabic NLP resources
+# References to Arabic Natural Language Processing (NLP) resources
 
 <!-- ![Screenshot](assets/template.jpg) -->
 
