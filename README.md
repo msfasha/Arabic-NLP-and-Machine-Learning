@@ -38,6 +38,7 @@ Language modeling is the task of predicting the next word or character in a docu
   - [MASADER, part of ARBML on GitHub](https://arbml.github.io/masader/)
   - [Haddeth Dataset](https://github.com/abdelrahmaan/Hadith-Data-Sets)
   - [Meta Text Repo](https://metatext.io/datasets-list/arabic-language)
+  - [Arabic Words Images, AMFD](https://github.com/msfasha/Arabic-Multi-Fonts-Dataset)
 
 ## Arabic Text processing
   - [tnkeeh, part of ARBML on GitHub](https://github.com/ARBML/tnkeeh)
