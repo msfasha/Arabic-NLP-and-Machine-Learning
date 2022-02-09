@@ -8,7 +8,8 @@
   <img src="assets/template.jpg" width="350" alt="انا أنزلناه قرانا عربيا لعلكم تعقلون">
 </p>
 
-## [Popular NLP libraries of 2022](https://medium.com/nlplanet/awesome-nlp-21-popular-nlp-libraries-of-2022-2e07a914248b)
+## Interesting Articles
+  - [Popular NLP libraries of 2022](https://medium.com/nlplanet/awesome-nlp-21-popular-nlp-libraries-of-2022-2e07a914248b)
 
 ## Arabic NLP Toolkits
 - [Camel Tools](https://camel-tools.readthedocs.io/en/latest/)
