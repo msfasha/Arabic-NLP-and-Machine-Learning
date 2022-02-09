@@ -8,16 +8,16 @@
   <img src="assets/template.jpg" width="350" alt="انا أنزلناه قرانا عربيا لعلكم تعقلون">
 </p>
 
-## Toolkits
+## Arabic NLP Toolkits
 - [Camel Tools](https://camel-tools.readthedocs.io/en/latest/)
 - [MadaMira](https://camel.abudhabi.nyu.edu/madamira/)
 - [FARASA](https://farasa.qcri.org/)
 
-## Spell Check
+## Arabic Spell Check
 - [Peter Norvig Algorithm](norvig/)
 
 
-## Language modeling
+## Arabic Language modeling
 
 Language modeling is the task of predicting the next word or character in a document.
 
@@ -28,13 +28,13 @@ Language modeling is the task of predicting the next word or character in a docu
 |hULMonA: The Universal Language Model in Arabic|[hULMonA](https://aclanthology.org/W19-4608/) | [Official](https://github.com/aub-mind/hULMonA) |
 
 
-## Datasets
+## Arabic Datasets
   - [MASADER, part of ARBML on GitHub](https://arbml.github.io/masader/)
 
-## Text Cleaning/normalization
+## Arabic Text Cleaning/normalization
   - [tnkeeh, part of ARBML on GitHub](https://github.com/ARBML/tnkeeh)
 
-## ASR
+## Arabic ASR
   - [klaam](https://github.com/ARBML/klaam)
 
 ## Corpus Analysis
