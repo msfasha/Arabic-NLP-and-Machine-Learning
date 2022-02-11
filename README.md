@@ -12,6 +12,7 @@
   - [Popular NLP libraries of 2022](https://medium.com/nlplanet/awesome-nlp-21-popular-nlp-libraries-of-2022-2e07a914248b)
   - [11-word-embeddings-models-you-should-know](https://medium.com/nlplanet/two-minutes-nlp-11-word-embeddings-models-you-should-know-a0581763b9a9)
   - [Machine Learning Advancements in Arabic](https://towardsdatascience.com/machine-learning-advancements-in-arabic-nlp-c6982b2f602b)
+  - [Text Classification using TFIDF, Word2Vec, Language Models](https://towardsdatascience.com/text-classification-with-nlp-tf-idf-vs-word2vec-vs-bert-41ff868d1794)
 
 ## Arabic NLP Toolkits
 - [Camel Tools](https://camel-tools.readthedocs.io/en/latest/)
@@ -42,7 +43,6 @@ Language modeling is the task of predicting the next word or character in a docu
   - [Haddeth Dataset](https://github.com/abdelrahmaan/Hadith-Data-Sets)
   - [Meta Text Repo](https://metatext.io/datasets-list/arabic-language)
   - [Arabic Words Images, AMFD](https://github.com/msfasha/Arabic-Multi-Fonts-Dataset)
-  - [Text Classification](https://towardsdatascience.com/text-classification-with-nlp-tf-idf-vs-word2vec-vs-bert-41ff868d1794)
 
 ## Arabic Text processing
   - [tnkeeh, part of ARBML on GitHub](https://github.com/ARBML/tnkeeh)
