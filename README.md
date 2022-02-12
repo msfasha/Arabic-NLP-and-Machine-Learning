@@ -9,6 +9,7 @@
 </p>
 
 ## Interesting Articles
+  - [Deep Natural Language Processing for LinkedIn Search Systems](https://towardsdatascience.com/deep-natural-language-processing-for-linkedin-search-systems-6d136978bcfe)
   - [Popular NLP libraries of 2022](https://medium.com/nlplanet/awesome-nlp-21-popular-nlp-libraries-of-2022-2e07a914248b)
   - [11-word-embeddings-models-you-should-know](https://medium.com/nlplanet/two-minutes-nlp-11-word-embeddings-models-you-should-know-a0581763b9a9)
   - [Machine Learning Advancements in Arabic](https://towardsdatascience.com/machine-learning-advancements-in-arabic-nlp-c6982b2f602b)
