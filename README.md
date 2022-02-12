@@ -9,7 +9,6 @@
 </p>
 
 ## Interesting Articles
-<h3 style="color:Navy;">NLP</h3>
   - [Top NLP Trends and Predictions 2022: is NeuralSpace set up for the future of NLP?](https://medium.com/neuralspace/top-nlp-trends-and-predictions-2022-is-neuralspace-set-up-for-the-future-of-nlp-6a4cbe166ee6)
   - [Popular NLP libraries of 2022](https://medium.com/nlplanet/awesome-nlp-21-popular-nlp-libraries-of-2022-2e07a914248b)
   - [11-word-embeddings-models-you-should-know](https://medium.com/nlplanet/two-minutes-nlp-11-word-embeddings-models-you-should-know-a0581763b9a9)
