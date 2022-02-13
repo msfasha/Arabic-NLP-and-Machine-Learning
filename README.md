@@ -14,7 +14,7 @@ NLP
   - [Popular NLP libraries of 2022](https://medium.com/nlplanet/awesome-nlp-21-popular-nlp-libraries-of-2022-2e07a914248b)
   - [11-word-embeddings-models-you-should-know](https://medium.com/nlplanet/two-minutes-nlp-11-word-embeddings-models-you-should-know-a0581763b9a9)
   - [Text Classification using TFIDF, Word2Vec, Language Models](https://towardsdatascience.com/text-classification-with-nlp-tf-idf-vs-word2vec-vs-bert-41ff868d1794)
-  
+  - [Understanding Transformers](https://github.com/dair-ai/Transformers-Recipe/blob/main/README.md)
 Machine Learning 
   - [Deep Natural Language Processing for LinkedIn Search Systems](https://towardsdatascience.com/deep-natural-language-processing-for-linkedin-search-systems-6d136978bcfe)
   - [Machine Learning Advancements in Arabic](https://towardsdatascience.com/machine-learning-advancements-in-arabic-nlp-c6982b2f602b)
