@@ -8,20 +8,24 @@
   <img src="assets/template.jpg" width="350" alt="انا أنزلناه قرانا عربيا لعلكم تعقلون">
 </p>
 
-## Interesting Articles
-NLP
+## Interesting NLP Articles
+
   - [Top NLP Trends and Predictions 2022: is NeuralSpace set up for the future of NLP?](https://medium.com/neuralspace/top-nlp-trends-and-predictions-2022-is-neuralspace-set-up-for-the-future-of-nlp-6a4cbe166ee6)
   - [Popular NLP libraries of 2022](https://medium.com/nlplanet/awesome-nlp-21-popular-nlp-libraries-of-2022-2e07a914248b)
   - [11-word-embeddings-models-you-should-know](https://medium.com/nlplanet/two-minutes-nlp-11-word-embeddings-models-you-should-know-a0581763b9a9)
   - [Text Classification using TFIDF, Word2Vec, Language Models](https://towardsdatascience.com/text-classification-with-nlp-tf-idf-vs-word2vec-vs-bert-41ff868d1794)
   - [Understanding Transformers](https://github.com/dair-ai/Transformers-Recipe/blob/main/README.md)
   
-Machine Learning 
+## Machine Learning Articles
   - [Deep Natural Language Processing for LinkedIn Search Systems](https://towardsdatascience.com/deep-natural-language-processing-for-linkedin-search-systems-6d136978bcfe)
   - [Machine Learning Advancements in Arabic](https://towardsdatascience.com/machine-learning-advancements-in-arabic-nlp-c6982b2f602b)
   
   <hr style="width:50%;text-align:left;margin-left:0">
 
+
+## Interesting Machine Learning/AI Courses Courses
+  - [Making Friends with Machine Learning](https://www.youtube.com/playlist?list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG)
+  - [Practical Deep Learning for Coders](https://course.fast.ai/)
 ## Arabic NLP Toolkits
 - [Camel Tools](https://camel-tools.readthedocs.io/en/latest/)
 - [MadaMira](https://camel.abudhabi.nyu.edu/madamira/)
