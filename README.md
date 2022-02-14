@@ -25,8 +25,8 @@
 
 
 ## Interesting Machine Learning/AI Courses Courses
-  - [Making Friends with Machine Learning](https://www.youtube.com/playlist?list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG)
-  - [Practical Deep Learning for Coders](https://course.fast.ai/)
+  - [Making Friends with Machine Learning, Google](https://www.youtube.com/playlist?list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG)
+  - [Practical Deep Learning for Coders, FastAI](https://course.fast.ai/)
 ## Arabic NLP Toolkits
 - [Camel Tools](https://camel-tools.readthedocs.io/en/latest/)
 - [MadaMira](https://camel.abudhabi.nyu.edu/madamira/)
