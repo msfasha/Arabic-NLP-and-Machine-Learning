@@ -17,7 +17,7 @@
   - [Understanding Transformers](https://github.com/dair-ai/Transformers-Recipe/blob/main/README.md)
   - {Keyword Extraction Methods-Overview](https://towardsdatascience.com/keyword-extraction-methods-the-overview-35557350f8bb)
   
-## Machine Learning Articles
+## Interesting Machine Learning Articles
   - [Deep Natural Language Processing for LinkedIn Search Systems](https://towardsdatascience.com/deep-natural-language-processing-for-linkedin-search-systems-6d136978bcfe)
   - [Machine Learning Advancements in Arabic](https://towardsdatascience.com/machine-learning-advancements-in-arabic-nlp-c6982b2f602b)
   
