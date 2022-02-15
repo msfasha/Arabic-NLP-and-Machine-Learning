@@ -16,6 +16,7 @@
   - [Text Classification using TFIDF, Word2Vec, Language Models](https://towardsdatascience.com/text-classification-with-nlp-tf-idf-vs-word2vec-vs-bert-41ff868d1794)
   - [Understanding Transformers](https://github.com/dair-ai/Transformers-Recipe/blob/main/README.md)
   - {Keyword Extraction Methods-Overview](https://towardsdatascience.com/keyword-extraction-methods-the-overview-35557350f8bb)
+  - [A brief timeline of NLP from Bag of Words to the Transformer family](https://medium.com/nlplanet/a-brief-timeline-of-nlp-from-bag-of-words-to-the-transformer-family-7caad8bbba56)
   
 ## Interesting Machine Learning Articles
   - [Deep Natural Language Processing for LinkedIn Search Systems](https://towardsdatascience.com/deep-natural-language-processing-for-linkedin-search-systems-6d136978bcfe)
